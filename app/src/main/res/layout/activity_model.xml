@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/size2"
+    android:background="@drawable/bg"
+    android:backgroundTint="#28000000"
+    android:backgroundTintMode="src_over"
+    android:scrollbarSize="5dp"
+    tools:context=".Model">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PREDICTION MODEL"
+        android:textColor="@color/black"
+        android:gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:layout_marginBottom="@dimen/size1"
+       />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gender"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size2"
+        android:textStyle="bold"/>
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/Gender"
+        android:scrollbarSize="@dimen/size1"
+        android:layout_marginBottom="@dimen/size1"
+        android:id="@+id/gender"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="Stream"
+        android:textSize="@dimen/size2"
+        android:textStyle="bold"/>
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/Stream"
+        android:scrollbarSize="@dimen/size1"
+        android:layout_marginBottom="@dimen/size1"
+        android:id="@+id/stream"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SSC Percentage"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size2"
+        android:textStyle="bold"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter only number. Example 90"
+        android:textColor="@color/black"
+        android:layout_marginBottom="@dimen/size1"
+        android:id="@+id/ssc"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="HSC Percentage"
+        android:textSize="@dimen/size2"
+        android:textStyle="bold"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter only number. Example 90"
+        android:textColor="@color/black"
+        android:layout_marginBottom="@dimen/size1"
+        android:id="@+id/hsc"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="Degree"
+        android:textSize="@dimen/size2"
+        android:textStyle="bold"/>
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/Degree"
+        android:scrollbarSize="@dimen/size1"
+        android:layout_marginBottom="@dimen/size1"
+        android:id="@+id/degree"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Degree Percentage"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size2"
+        android:textStyle="bold"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter only number. Example 90"
+        android:textColor="@color/black"
+        android:layout_marginBottom="@dimen/size1"
+        android:id="@+id/degree_p"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Work Experience"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size2"
+        android:textStyle="bold"/>
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/Work_exp"
+        android:scrollbarSize="@dimen/size1"
+        android:layout_marginBottom="@dimen/size1"
+        android:id="@+id/work_exp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Employability Test Score"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size2"
+        android:textStyle="bold"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter only number. Example 90"
+        android:textColor="@color/black"
+        android:layout_marginBottom="@dimen/size1"
+        android:id="@+id/etest"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Specialization"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size2"
+        android:textStyle="bold"/>
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/specialization"
+        android:scrollbarSize="@dimen/size1"
+        android:layout_marginBottom="@dimen/size1"
+        android:id="@+id/specialization"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MBA Percentage"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size2"
+        android:textStyle="bold"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+
+        android:hint="Enter only number. Example 90"
+        android:id="@+id/mba"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SUBMIT"
+        android:backgroundTint="#8A000000"
+        android:textColor="@color/white"
+        android:background="@drawable/button"
+        android:id="@+id/submit"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="25dp"
+        android:textColor="@color/black"
+        android:id="@+id/output"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"/>
+
+
+
+</LinearLayout>
+</ScrollView>

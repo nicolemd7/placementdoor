@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\layout_dong_video.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\layout\\dong_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg.jpg.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\layout_youtubedisplay.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\layout\\youtubedisplay.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\drawable_input_bg.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\drawable\\input_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_youtube.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\layout\\activity_youtube.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo1.png.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\drawable\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home_page.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\layout\\activity_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_video.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_articlelist.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\layout\\activity_articlelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_security_24.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\drawable\\ic_baseline_security_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\font_font.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\font\\font.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\drawable_plogo.png.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\drawable\\plogo.png"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_article.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\layout\\activity_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_model.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\layout\\activity_model.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\drawable_button.xml.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\drawable\\button.xml"
+    }
+]

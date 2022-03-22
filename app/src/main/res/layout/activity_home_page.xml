@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/size3"
+    android:background="@drawable/bg"
+    android:backgroundTint="#28000000"
+    android:backgroundTintMode="src_over"
+    android:weightSum="1"
+    tools:context=".HomePage">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_weight="0.25"
+        android:text="Prediction Model"
+        android:textSize="@dimen/size2"
+        android:background="@drawable/button"
+        android:textColor="@color/white"
+        android:layout_margin="@dimen/size2"
+        android:id="@+id/model"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_weight="0.25"
+        android:text="Video Tutorials"
+        android:textSize="@dimen/size2"
+        android:background="@drawable/button"
+        android:layout_margin="@dimen/size2"
+        android:textColor="@color/white"
+        android:id="@+id/videos"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_weight="0.25"
+        android:text="Placement Experience"
+        android:textSize="@dimen/size2"
+        android:background="@drawable/button"
+        android:layout_margin="@dimen/size2"
+        android:textColor="@color/white"
+        android:id="@+id/articles"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_weight="0.25"
+        android:text="Speak to a counsellor"
+        android:textSize="@dimen/size2"
+        android:background="@drawable/button"
+        android:layout_margin="@dimen/size2"
+        android:textColor="@color/white"
+        android:id="@+id/counsellor"/>
+</LinearLayout>
+</ScrollView>

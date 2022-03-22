@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MAD_Project</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+        <string-array name="array_technology">
+            <item><a href="https://digitallearning.eletsonline.com/2019/06/campus-placement-in-india-an-overview/">Campus Placements in India</a></item>
+            <item><a href="https://timesofindia.indiatimes.com/topic/placement/news">Latest news on placements</a></item>
+        </string-array>
+    <string-array name="Gender">
+        <item>Select Gender</item>
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+    <string-array name="Stream">
+        <item>Select Stream</item>
+        <item>Science</item>
+        <item>Commerce</item>
+        <item>Arts</item>
+    </string-array>
+    <string-array name="Degree">
+        <item>Select Degree Type</item>
+        <item>Sci&amp;Tech</item>
+        <item>Comm&amp;Mgmt</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="Work_exp">
+        <item>yes</item>
+        <item>no</item>
+    </string-array>
+    <string-array name="specialization">
+        <item>Select Specialization</item>
+        <item>Mkt&amp;HR</item>
+        <item>Mkt&amp;Fin</item>
+    </string-array>
+    <string-array name="youtubelist"></string-array>
+</resources>

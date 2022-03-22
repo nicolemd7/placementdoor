@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">134901394170-o6e6u438stnuul6rkpca03hi7tqk6nd3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">134901394170</string>
+    <string name="google_api_key" translatable="false">AIzaSyAtcF7Nl2o1iCjq6s-_GEarysxb70k7LoA</string>
+    <string name="google_app_id" translatable="false">1:134901394170:android:e81ddfd34097f92c823743</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAtcF7Nl2o1iCjq6s-_GEarysxb70k7LoA</string>
+    <string name="google_storage_bucket" translatable="false">placement-door-30ee7.appspot.com</string>
+    <string name="project_id" translatable="false">placement-door-30ee7</string>
+</resources>
