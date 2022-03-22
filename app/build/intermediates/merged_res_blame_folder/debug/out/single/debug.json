@@ -24,12 +24,12 @@
         "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\layout\\dong_video.xml"
     },
     {
-        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg.jpg.flat",
         "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\nicole\\Desktop\\MAD_Project\\app\\build\\intermediates\\merged_res\\debug\\layout_youtubedisplay.xml.flat",
