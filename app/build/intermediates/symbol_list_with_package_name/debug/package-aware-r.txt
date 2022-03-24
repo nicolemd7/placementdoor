@@ -3176,7 +3176,6 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_article
-layout activity_articlelist
 layout activity_home_page
 layout activity_login
 layout activity_main
@@ -3203,6 +3202,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout dong_video
+layout listdesign
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title

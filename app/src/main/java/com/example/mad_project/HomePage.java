@@ -39,7 +39,7 @@ Button counsel;
         article.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(HomePage.this,Articles.class));
+                startActivity(new Intent(HomePage.this,Article.class));
             }
         });
 counsel.setOnClickListener(new View.OnClickListener() {

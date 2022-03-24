@@ -30,6 +30,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.MAD_Project" >
         <activity
+            android:name="com.example.mad_project.Article"
+            android:exported="false" />
+        <activity
             android:name="com.example.mad_project.HomePage"
             android:exported="false" />
         <activity

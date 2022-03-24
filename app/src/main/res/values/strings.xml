@@ -3,10 +3,18 @@
     <string name="player_error">Error initializing YouTube player: %s</string>
     <string name="seek_to">Jump To</string>
     <string name="seek_to_hint">Seconds</string>
-        <string-array name="array_technology">
-            <item><a href="https://digitallearning.eletsonline.com/2019/06/campus-placement-in-india-an-overview/">Campus Placements in India</a></item>
-            <item><a href="https://timesofindia.indiatimes.com/topic/placement/news">Latest news on placements</a></item>
-        </string-array>
+    <string-array name="array_technology">
+        <item>Campus Placements in India</item>
+        <item>Latest news on placements</item>
+        <item>Factors affecting placement and hiring decisions</item>
+        <item>A Study on the Future of Campus Placements in India Post the Pandemic</item>
+        <item>Placement: Short Paragraph on Placement</item>
+        <item>Complexities in Student Placements Under COVID-19 Moral and Practical Considerations</item>
+        <item>Students on placement: A comparative study</item>
+        <item>A work placement review from an undergraduate’s perspective</item>
+        <item>Job market scenario in 2021</item>
+        <item>Campus hiring hit across 82% colleges in India due to Covid-19: Survey</item>
+    </string-array>
     <string-array name="Gender">
         <item>Select Gender</item>
         <item>male</item>
